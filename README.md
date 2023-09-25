@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kogroman
 - 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, SQL
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Telegram: @Icezee 
       Insta: @kogroman
